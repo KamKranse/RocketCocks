@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketCocks.CSharp", "RocketCocks.CSharp.csproj", "{0B2E4AD5-0272-1BDE-40EF-7CDD1377E0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketCocks.CSharp.Editor", "RocketCocks.CSharp.Editor.csproj", "{2D175FAA-E3D9-7E1C-56E9-F14CE2BD2C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2E4AD5-0272-1BDE-40EF-7CDD1377E0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2E4AD5-0272-1BDE-40EF-7CDD1377E0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2E4AD5-0272-1BDE-40EF-7CDD1377E0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2E4AD5-0272-1BDE-40EF-7CDD1377E0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D175FAA-E3D9-7E1C-56E9-F14CE2BD2C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D175FAA-E3D9-7E1C-56E9-F14CE2BD2C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D175FAA-E3D9-7E1C-56E9-F14CE2BD2C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D175FAA-E3D9-7E1C-56E9-F14CE2BD2C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
